@@ -15,5 +15,3 @@ while True:
     key = input('wanna continue? y/n:  ')
     if key == 'n':
         break
-git config --global user.email "addrob@inbox.ru"
-git config --global user.name "addrob"
