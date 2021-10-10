@@ -10,5 +10,5 @@ title_line = []
 for title in headlines:
     if title.has_attr('class') and title.get('class')[0] == 'css-1qoy44n':
         title_line.append(title.string)
-print(title_line)
+print (title_line)
 
